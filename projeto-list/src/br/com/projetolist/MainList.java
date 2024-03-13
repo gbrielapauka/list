@@ -1,6 +1,7 @@
 package br.com.projetolist;
 
 import java.util.ArrayList;
+import java.util.Scanner;
 import java.util.List;
 
 public class MainList {
